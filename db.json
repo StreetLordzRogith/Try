@@ -1,0 +1,35 @@
+{
+    "posts": [
+        {
+            
+                "PID": "P01",
+                "PRICE": 45,
+                "Size": "M",
+                "Status": "IN STOCK",
+                "PTITILE": "T-SHIRTS"
+            },
+           
+      
+        {
+            "id": "recnCnBcj8u3FotI6",
+            "fields": {
+                "PID": "P02",
+                "PRICE": 55,
+                "Size": "L",
+                "Status": "OUT OF STOCK",
+                "PTITILE": "FORMAL SHIRTS"
+            },
+            
+        {
+            "id": "recWmy8OfRzX1ityN",
+            "fields": {
+                "PID": "P03",
+                "PRICE": 99,
+                "Size": "8",
+                "Status": "IN STOCK",
+                "PTITILE": "SHOES"
+            }
+           
+    ]
+}
+   
